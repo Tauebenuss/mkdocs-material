@@ -19,7 +19,7 @@ developing built-in plugins, we always adhere to the following design principles
 - **Interoperability:** Built-in plugins are designed to be as compatible as
   possible, so they can be used in combination with other plugins, including
   third-party plugins. We strive to make it simple to integrate with the vast
-  ecosystem that has evolved around [MkDocs][mkdocs].
+  ecosystem that has evolved around [MkDocs][mkdocs]. Ich schreibe hier deutschen Text 
 
 - **Performance:** Built-in plugins are designed to be as fast and
   memory-efficient as possible, so that they don't unnecessarily slow down
